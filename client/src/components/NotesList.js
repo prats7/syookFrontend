@@ -61,7 +61,7 @@ class NotesList extends Component {
                             ))};
                     </TransitionGroup>
                     </ListGroup>
-                </Container> : <h1>Hi</h1>
+                </Container> : null
 
         );
     }
